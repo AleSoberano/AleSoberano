@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola. Bienvenido a mi perfil. 👋
 
 - 🔭 Actualmente estoy trabajando en mi primer página.
 - 🌱 Estoy aprendiendo JavaScript
